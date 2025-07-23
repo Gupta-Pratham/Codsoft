@@ -1,0 +1,16 @@
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# VS Code settings folder
+.vscode/
+
+# IDE settings (if accidentally created)
+.idea/
+*.iml
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
